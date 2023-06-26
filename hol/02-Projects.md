@@ -26,9 +26,9 @@ In his hands-on lab you will practice working with GitHub projects. The exercise
 
 ## Working with boards
 
-1. Create a Kanban Board filtered by `level:Feature` and safe it as `Feature Board`
-2. Create a Kanban Board filtered by `level:story` and change the column field to sprint. Safe the view as `Sprints`
-3. Create a Kanban Board filtered by `-level:story` and change the colun view to `Quarter`. Safe the view as `Planning`.
+1. Create a Kanban Board filtered by `level:Feature` and save it as `Feature Board`
+2. Create a Kanban Board filtered by `level:story` and change the column field to sprint. Save the view as `Sprints`
+3. Create a Kanban Board filtered by `-level:story` and change the colun view to `Quarter`. Save the view as `Planning`.
 
 <details><summary>Solution</summary>
 
